@@ -1,0 +1,46 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navbar2 {
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 120%;
+    font-family: Helvetica Neue, Arial, sans-serif;
+    border-right: grey solid;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .tamanho-imagem2{
+    float: left;
+      width:  70px;
+      height: 60px;
+      margin-top: 5px;
+  }
+
+  body{background-color: black }
+.white{
+    color: white;
+    text-align: left;
+}
+
+.top{
+    width: 70%;
+    margin-top: 30px;
+}
+.search{
+    float: right;
+    margin-top: 2%;
+    border: none;
+}
